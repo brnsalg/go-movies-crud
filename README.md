@@ -28,4 +28,4 @@
     GET (BY ID) - http://localhost:8080/movies/{id}
     POST (CREATE) - http://localhost:8080/movies
     PUT (UPDATE) - http://localhost:8080/movies/{id}
-    DELETE (DELETE) - http://localhost:8080/movies{id}
+    DEL (DELETE) - http://localhost:8080/movies{id}
